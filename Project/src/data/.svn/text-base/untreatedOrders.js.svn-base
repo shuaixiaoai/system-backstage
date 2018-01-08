@@ -1,0 +1,55 @@
+const tableData = [
+  // {
+  //   order_id: 10002,
+  //   shop_id: '陶味外卖店',
+  //   user_id: '100000001',
+  //   name: '张三',
+  //   phone: '12345678911',
+  //   address: '深圳市南山区科苑北路迅美科技广场3号楼9楼909室',
+  //   order_detail: '订单详情',
+  //   memo: '加辣加麻',
+  //   request_time: '14:45',
+  //   coupon: '是否使用优惠券',
+  //   discount_money: '2',
+  //   total_price: '10',
+  //   create_date: '2016-12-01 17:18:26',
+  //   time_remain: 'shifenzhong'
+  // },
+  // {
+  //   order_id: 10003,
+  //   shop_id: '陶味外卖店',
+  //   user_id: '100000001',
+  //   name: '张三',
+  //   phone: '12345678911',
+  //   address: '深圳市南山区深圳大学4号楼12层1205室',
+  //   order_detail: '订单详情',
+  //   memo: '加辣加麻',
+  //   request_time: '41545',
+  //   coupon: '是否使用优惠券',
+  //   discount_money: '2',
+  //   total_price: '10',
+  //   create_date: '2016-12-01 17:18:26',
+  //   time_remain: 'shifenzhong'
+  // },
+  {
+    order_id: 10005,
+    shop_id: '陶味外卖店',
+    user_id: '100000001',
+    name: '张三',
+    phone: '12345678911',
+    address: '深圳市南山区深圳大学4号楼12层1205室',
+    order_detail: '订单详情',
+    memo: '加辣加麻',
+    request_time: '41545',
+    coupon: '是否使用优惠券',
+    discount_money: '2',
+    total_price: '10',
+    create_date: '2016-12-01 17:18:26',
+    send_person: '小小艾',
+    send_state: '0',
+    time_remain: 'shifenzhong',
+    time_reach: '送到时间',
+    rating_state: '0'
+  }
+]
+export default tableData
